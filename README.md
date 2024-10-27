@@ -1,7 +1,7 @@
 ## Welcome 👋
 
 🔭 **Skills**:
-- PHP, Laravel, ReactJS/VueJS/TypeScript/JavaScript/JQuery, AWS, Ethereum, Web3, PayPal, Stripe.
+- PHP, Laravel, Angular/ReactJs/TypeScript/JavaScript/JQuery, AWS, Ethereum, Web3, PayPal, Stripe.
 
 🌱 **Specialization**:
 - Rich experience in Payment integrations.
