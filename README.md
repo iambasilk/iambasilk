@@ -1,12 +1,12 @@
 ## Welcome 👋
 
-🔭 Skills:
-- PHP, Laravel, ReactJS/VueJS/TypeScript/JavaScript/JQuery, AWS, Ethereum, Web3, PayPal, Stripe.
+🔭 **Skills**:
+- PHP, Laravel, Angular/ReactJs/TypeScript/JavaScript/JQuery, AWS, Ethereum, Web3, PayPal, Stripe.
 
-🌱 Specialization:
+🌱 **Specialization**:
 - Rich experience in Payment integrations.
 
-📫 Contact:
+📫 **Contact**:
 - LinkedIn: https://www.linkedin.com/in/basilk87/
 
 ![](https://komarev.com/ghpvc/?username=iambasilk)
