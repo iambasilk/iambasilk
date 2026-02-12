@@ -1,6 +1,6 @@
 # Hi there, I'm Basil 👋
 
-**Founder & Full-stack Engineer** | Specializing in AI Infrastructure, Payment Systems, and Web3.
+**Full-stack Engineer** | Specializing in AI Infrastructure, Payment Systems, and Web3.
 
 ---
 
