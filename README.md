@@ -22,10 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iambasilk&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambasilk&layout=compact&theme=tokyonight)
-
 ### 📫 Let's Connect
 - **LinkedIn**: [in/basilk87](https://www.linkedin.com/in/basilk87/)
 - **Twitter/X**: [@iambasilk](https://twitter.com/iambasilk)
